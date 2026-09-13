@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-13T12:00:00+03:00">
+  <shop>
+    <name>Автошкола Педалькин</name>
+    <company>Автошкола Педалькин</company>
+    <url>https://avtoshkola-pedalkin.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Категория A</category>
+      <category id="2">Категория B</category>
+      <category id="3">Категория A+B</category>
+      <category id="4">Сертификат</category>
+    </categories>
+    <offers>
+
+      <offer id="10" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>90000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b83b5edfad870cb6f741d319368/orig</picture>
+        <name>Обучение на категорию "В" АКПП + А (Офлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="9" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>85000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b83b5edfad870cb6f741d319368/orig</picture>
+        <name>Обучение на категорию "В" МКПП + А (Офлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="8" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>80000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b83b5edfad870cb6f741d319368/orig</picture>
+        <name>Обучение на категорию "В" МКПП + А (Онлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="7" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a000001943075cc343d9655e4cad613c287/orig</picture>
+        <name>Подарочный сертификат</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>Подарочный сертификат на обучение в автошколе</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="6" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b83b63b5aba1a0e8230f7cedd3f/orig</picture>
+        <name>Обучение на категорию "А" (Онлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="5" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>27000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b83b63b5aba1a0e8230f7cedd3f/orig</picture>
+        <name>Обучение на категорию "А" (Офлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="4" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b83b66e67e4ad4140a87c1462e0/orig</picture>
+        <name>Обучение на категорию "В" МКПП (Онлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">да</param>
+      </offer>
+
+      <offer id="3" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b83b66e67e4ad4140a87c1462e0/orig</picture>
+        <name>Обучение на категорию "В" МКПП (Офлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="2" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>70000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2791887/2a0000019b83b6ab4f79d5ec646615bbac64/orig</picture>
+        <name>Обучение на категорию "В" АКПП (Офлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="1" available="true">
+        <url>https://avtoshkola-pedalkin.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2791887/2a0000019b83b6ab4f79d5ec646615bbac64/orig</picture>
+        <name>Обучение на категорию "В" АКПП (Онлайн)</name>
+        <vendor>Автошкола Педалькин</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
