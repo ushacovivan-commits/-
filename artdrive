@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-13T12:00:00+03:00">
+  <shop>
+    <name>Автошкола АртДрайв</name>
+    <company>Автошкола АртДрайв</company>
+    <url>https://avtoshkola-artdrive.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Категория A</category>
+      <category id="2">Категория B</category>
+      <category id="3">Категория A+B</category>
+    </categories>
+    <offers>
+
+      <offer id="10" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>90000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019bc35442a43ef50ec0d8dfabd6dd/orig</picture>
+        <name>Категория "В" АКПП + А (Офлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="9" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>85000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019bc35442a43ef50ec0d8dfabd6dd/orig</picture>
+        <name>Категория "В" МКПП + А (Офлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="8" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>80000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019bc35442a43ef50ec0d8dfabd6dd/orig</picture>
+        <name>Категория "В" МКПП + А (Онлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="6" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019bc354885b60b2a5354766b40494/orig</picture>
+        <name>Категория "А" (Онлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="5" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>27000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019bc354885b60b2a5354766b40494/orig</picture>
+        <name>Категория "А" (Офлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="4" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc354ab735b047cdf9d8f7214df/orig</picture>
+        <name>Категория "В" МКПП (Онлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">да</param>
+      </offer>
+
+      <offer id="3" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc354ab735b047cdf9d8f7214df/orig</picture>
+        <name>Категория "В" МКПП (Офлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="2" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>70000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc354dcf7f64a609a2d0e6315a0/orig</picture>
+        <name>Категория "В" АКПП (Офлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="1" available="true">
+        <url>https://avtoshkola-artdrive.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc354dcf7f64a609a2d0e6315a0/orig</picture>
+        <name>Категория "В" АКПП (Онлайн)</name>
+        <vendor>Автошкола АртДрайв</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
