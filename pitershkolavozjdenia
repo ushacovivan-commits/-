@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-13T12:00:00+03:00">
+  <shop>
+    <name>Piter Driving</name>
+    <company>Автошкола Piter Driving</company>
+    <url>https://piterdriving.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Категория A</category>
+      <category id="2">Категория B</category>
+    </categories>
+    <offers>
+
+      <offer id="6" available="true">
+        <url>https://piterdriving.ru/</url>
+        <price>27000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019c1068075abce3ee1602ee301782/orig</picture>
+        <name>Обучение на категорию "А" (Офлайн)</name>
+        <vendor>Piter Driving</vendor>
+        <description>✓ Теория в формате офлайн (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="5" available="true">
+        <url>https://piterdriving.ru/</url>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019c1068075abce3ee1602ee301782/orig</picture>
+        <name>Обучение на категорию "А" (Онлайн)</name>
+        <vendor>Piter Driving</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="4" available="true">
+        <url>https://piterdriving.ru/</url>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019c10682e474c0a546e35553465e1/orig</picture>
+        <name>Обучение на категорию "В" МКПП (Онлайн)</name>
+        <vendor>Piter Driving</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">да</param>
+      </offer>
+
+      <offer id="3" available="true">
+        <url>https://piterdriving.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019c10682e474c0a546e35553465e1/orig</picture>
+        <name>Обучение на категорию "В" МКПП (Офлайн)</name>
+        <vendor>Piter Driving</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="2" available="true">
+        <url>https://piterdriving.ru/</url>
+        <price>70000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019c106865c2a84136a0e0ee1636f9/orig</picture>
+        <name>Обучение на категорию "В" АКПП (Офлайн)</name>
+        <vendor>Piter Driving</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="1" available="true">
+        <url>https://piterdriving.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019c106865c2a84136a0e0ee1636f9/orig</picture>
+        <name>Обучение на категорию "В" АКПП (Онлайн)</name>
+        <vendor>Piter Driving</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
