@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-13T12:00:00+03:00">
+  <shop>
+    <name>Автошкола ПТС</name>
+    <company>Автошкола ПТС</company>
+    <url>https://avtoshkola-pts.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Категория A</category>
+      <category id="2">Категория B</category>
+      <category id="3">Категория A+B</category>
+    </categories>
+    <offers>
+
+      <!-- A+B (АКПП, офлайн) -->
+      <offer id="ab-akpp-offline" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bc124c39e0f1402c5df3fc7c092/orig</picture>
+        <name>Обучение на категорию "В" АКПП + А (Офлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Получи сразу 2 категории прав. Теория в формате онлайн. Беспроцентная рассрочка оплаты. Мотопарк (не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- A+B (МКПП, офлайн) -->
+      <offer id="ab-mkpp-offline" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bc124c39e0f1402c5df3fc7c092/orig</picture>
+        <name>Обучение на категорию "В" МКПП + А (Офлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Получи сразу 2 категории прав. Теория в очном формате (в классе). Беспроцентная рассрочка оплаты. Мотопарк (не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- A+B (МКПП, онлайн) -->
+      <offer id="ab-mkpp-online" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bc124c39e0f1402c5df3fc7c092/orig</picture>
+        <name>Обучение на категорию "В" МКПП + А (Онлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Получи сразу 2 категории прав. Теория в формате онлайн. Беспроцентная рассрочка оплаты. Мотопарк (не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- A (онлайн) -->
+      <offer id="a-online" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc12529644901f990152ef86b4c/orig</picture>
+        <name>Обучение на категорию "А" (Онлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Теория в формате онлайн. Беспроцентная рассрочка оплаты. Мотопарк (не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- A (офлайн) -->
+      <offer id="a-offline" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc12529644901f990152ef86b4c/orig</picture>
+        <name>Обучение на категорию "А" (Офлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Теория в очном формате (в классе). Беспроцентная рассрочка оплаты. Мотопарк (не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- B (МКПП, онлайн) — популярный -->
+      <offer id="b-mkpp-online" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc12555c163aef2dc04b77d84f1/orig</picture>
+        <name>Обучение на категорию "В" МКПП (Онлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Теория в формате онлайн. Беспроцентная рассрочка оплаты. Автопарк (иномарки не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">да</param>
+      </offer>
+
+      <!-- B (МКПП, офлайн) -->
+      <offer id="b-mkpp-offline" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019bc12555c163aef2dc04b77d84f1/orig</picture>
+        <name>Обучение на категорию "В" МКПП (Офлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Теория в очном формате (в классе). Беспроцентная рассрочка оплаты. Автопарк (иномарки не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- B (АКПП, офлайн) -->
+      <offer id="b-akpp-offline" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bc125ad0ae902b5cc4c05a668a3/orig</picture>
+        <name>Обучение на категорию "В" АКПП (Офлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Теория в очном формате (в классе). Беспроцентная рассрочка оплаты. Автопарк (иномарки не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <!-- B (АКПП, онлайн) -->
+      <offer id="b-akpp-online" available="true">
+        <url>https://avtoshkola-pts.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bc125ad0ae902b5cc4c05a668a3/orig</picture>
+        <name>Обучение на категорию "В" АКПП (Онлайн)</name>
+        <vendor>Автошкола ПТС</vendor>
+        <description>Теория в формате онлайн. Беспроцентная рассрочка оплаты. Автопарк (иномарки не старше 5-ти лет). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
