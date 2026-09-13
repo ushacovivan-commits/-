@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-13T12:00:00+03:00">
+  <shop>
+    <name>Автошкола Фарс</name>
+    <company>Автошкола Фарс</company>
+    <url>https://avtoshkola-fars.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Категория A</category>
+      <category id="2">Категория B (АКПП)</category>
+      <category id="3">Категория B (МКПП)</category>
+    </categories>
+    <offers>
+
+      <offer id="fars-cat-a" available="true">
+        <url>https://avtoshkola-fars.ru/</url>
+        <price>30000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019c193fdb2e541ce849ba2d426bc1/orig</picture>
+        <name>Категория А</name>
+        <vendor>Автошкола Фарс</vendor>
+        <description>Теория в формате онлайн или очно. Мотопарк (не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы).</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="fars-cat-b-mkpp" available="true">
+        <url>https://avtoshkola-fars.ru/</url>
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17763327/2a0000019c193fbeee5f7aa8cb1c23bd3558/orig</picture>
+        <name>Категория В (МКПП)</name>
+        <vendor>Автошкола Фарс</vendor>
+        <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="fars-cat-b-akpp" available="true">
+        <url>https://avtoshkola-fars.ru/</url>
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019c1940a185128be877674248be90/orig</picture>
+        <name>Категория В (АКПП)</name>
+        <vendor>Автошкола Фарс</vendor>
+        <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
