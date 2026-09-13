@@ -3,7 +3,7 @@
   <shop>
     <name>Институт Дорог</name>
     <company>Институт Дорог</company>
-    <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+    <url>https://институт-дорог.рф/</url>
     <currencies>
       <currency id="RUB" rate="1"/>
     </currencies>
@@ -15,7 +15,7 @@
     <offers>
 
       <offer id="id-ab-akpp-offline" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>90000</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -28,7 +28,7 @@
       </offer>
 
       <offer id="id-ab-mkpp-offline" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>85000</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -41,7 +41,7 @@
       </offer>
 
       <offer id="id-ab-mkpp-online" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>80000</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -54,7 +54,7 @@
       </offer>
 
       <offer id="id-a-online" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>25000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -67,7 +67,7 @@
       </offer>
 
       <offer id="id-a-offline" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>27000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -80,7 +80,7 @@
       </offer>
 
       <offer id="id-b-mkpp-online" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>60000</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -93,7 +93,7 @@
       </offer>
 
       <offer id="id-b-mkpp-offline" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>65000</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -106,7 +106,7 @@
       </offer>
 
       <offer id="id-b-akpp-offline" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>70000</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -119,7 +119,7 @@
       </offer>
 
       <offer id="id-b-akpp-online" available="true">
-        <url>https://xn--80aqfcbceeik9d.xn--p1ai/</url>
+        <url>https://институт-дорог.рф/</url>
         <price>65000</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
