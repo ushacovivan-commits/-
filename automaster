@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-13T12:00:00+03:00">
+  <shop>
+    <name>Автошкола Мастер</name>
+    <company>Автошкола Мастер</company>
+    <url>https://avtoshkola-master.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Категория A</category>
+      <category id="2">Категория B</category>
+      <category id="3">Категория A+B</category>
+      <category id="4">Сертификат</category>
+    </categories>
+    <offers>
+
+      <offer id="10" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>90000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2805495/2a0000019bd2acb210ab7488a07af7e19a42/orig</picture>
+        <name>Категория "В" АКПП + А (Офлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="9" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>85000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2805495/2a0000019bd2acb210ab7488a07af7e19a42/orig</picture>
+        <name>Категория "В" МКПП + А (Офлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="8" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>80000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2805495/2a0000019bd2acb210ab7488a07af7e19a42/orig</picture>
+        <name>Категория "В" МКПП + А (Онлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>Получи сразу 2 категории прав:&#xA;✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="7" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>1</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bd2ad1895f842e7313a9d0d73e4/orig</picture>
+        <name>Подарочный сертификат</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>Подарочный сертификат на обучение в автошколе</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="6" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019bd2acf1b75f9745272ef705ca2a/orig</picture>
+        <name>Категория "А" (Онлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="5" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>27000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019bd2acf1b75f9745272ef705ca2a/orig</picture>
+        <name>Категория "А" (Офлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="4" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bd2ad1895f842e7313a9d0d73e4/orig</picture>
+        <name>Категория "В" МКПП (Онлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">да</param>
+      </offer>
+
+      <offer id="3" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/19253181/2a0000019bd2ad1895f842e7313a9d0d73e4/orig</picture>
+        <name>Категория "В" МКПП (Офлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="2" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>70000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019bd2ad42b3505f4ba3b74db85b7d/orig</picture>
+        <name>Категория "В" АКПП (Офлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>✓ Теория в очном формате (в классе)&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+      <offer id="1" available="true">
+        <url>https://avtoshkola-master.ru/</url>
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/16345524/2a0000019bd2ad42b3505f4ba3b74db85b7d/orig</picture>
+        <name>Категория "В" АКПП (Онлайн)</name>
+        <vendor>Автошкола Мастер</vendor>
+        <description>✓ Теория в формате онлайн&#xA;✓ Беспроцентная рассрочка оплаты&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
