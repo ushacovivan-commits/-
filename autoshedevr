@@ -13,42 +13,46 @@
       <category id="3">Категория B (МКПП)</category>
     </categories>
     <offers>
+
       <offer id="cat-b-akpp" available="true">
         <url>https://xn--80aeaheb4duam5d.xn--p1ai/</url>
         <price>43000</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019c6d31e3cb6dea1203ba492bea42/orig</picture>
-        <name>Категория B (АКПП)</name>
+        <name>Категория В (АКПП)</name>
         <vendor>Pedalkin</vendor>
-        <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
+        <description>✓ Теория в формате онлайн или очно&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Инструкторы (профессионалы с многолетним опытом работы)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
         <sales_notes>1 ШТУКА</sales_notes>
         <param name="Популярный товар">нет</param>
       </offer>
+
       <offer id="cat-b-mkpp" available="true">
         <url>https://xn--80aeaheb4duam5d.xn--p1ai/</url>
         <price>43000</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/17712810/2a0000019c6d31d260d2941470cf3955239b/orig</picture>
-        <name>Категория B (МКПП)</name>
+        <name>Категория В (МКПП)</name>
         <vendor>Pedalkin</vendor>
-        <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
+        <description>✓ Теория в формате онлайн или очно&#xA;✓ Автопарк (иномарки не старше 5-ти лет)&#xA;✓ Инструкторы (профессионалы с многолетним опытом работы)&#xA;✓ Сопровождение на экзамене в ГАИ</description>
         <sales_notes>1 ШТУКА</sales_notes>
         <param name="Популярный товар">нет</param>
       </offer>
+
       <offer id="cat-a" available="true">
         <url>https://xn--80aeaheb4duam5d.xn--p1ai/</url>
         <price>30000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019c6d31bd7b963da873b22057ce1b/orig</picture>
-        <name>Категория A</name>
+        <name>Категория А</name>
         <vendor>Pedalkin</vendor>
-        <description>Теория в формате онлайн или очно. Мотопарк (не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы).</description>
+        <description>✓ Теория в формате онлайн или очно&#xA;✓ Мотопарк (не старше 5-ти лет)&#xA;✓ Инструкторы (профессионалы с многолетним опытом работы)</description>
         <sales_notes>1 ШТУКА</sales_notes>
         <param name="Популярный товар">нет</param>
       </offer>
+
     </offers>
   </shop>
 </yml_catalog>
