@@ -22,8 +22,6 @@
         <name>Категория B (АКПП)</name>
         <vendor>Pedalkin</vendor>
         <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
-        <sales_notes>1 ШТУКА</sales_notes>
-        <param name="Популярный товар">нет</param>
       </offer>
       <offer id="cat-b-mkpp" available="true">
         <url>https://pedalkin-msk.ru/</url>
@@ -34,8 +32,6 @@
         <name>Категория B (МКПП)</name>
         <vendor>Pedalkin</vendor>
         <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
-        <sales_notes>1 ШТУКА</sales_notes>
-        <param name="Популярный товар">нет</param>
       </offer>
       <offer id="cat-a" available="true">
         <url>https://pedalkin-msk.ru/</url>
@@ -46,8 +42,6 @@
         <name>Категория A</name>
         <vendor>Pedalkin</vendor>
         <description>Теория в формате онлайн или очно. Мотопарк (не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы).</description>
-        <sales_notes>1 ШТУКА</sales_notes>
-        <param name="Популярный товар">нет</param>
       </offer>
     </offers>
   </shop>
