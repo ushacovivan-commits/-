@@ -13,36 +13,45 @@
       <category id="3">Категория B (МКПП)</category>
     </categories>
     <offers>
+
       <offer id="cat-b-akpp" available="true">
         <url>https://pedalkin-msk.ru/</url>
         <price>43000</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2791887/2a0000019b83b6ab4f79d5ec646615bbac64/orig</picture>
-        <name>Категория B (АКПП)</name>
+        <name>Категория В (АКПП)</name>
         <vendor>Pedalkin</vendor>
         <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
+        <param name="Популярный товар">нет</param>
       </offer>
+
       <offer id="cat-b-mkpp" available="true">
         <url>https://pedalkin-msk.ru/</url>
         <price>43000</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a0000019b83b66e67e4ad4140a87c1462e0/orig</picture>
-        <name>Категория B (МКПП)</name>
+        <name>Категория В (МКПП)</name>
         <vendor>Pedalkin</vendor>
         <description>Теория в формате онлайн или очно. Автопарк (иномарки не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы). Сопровождение на экзамене в ГАИ.</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
       </offer>
+
       <offer id="cat-a" available="true">
         <url>https://pedalkin-msk.ru/</url>
         <price>30000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/17700615/2a0000019b83b63b5aba1a0e8230f7cedd3f/orig</picture>
-        <name>Категория A</name>
+        <name>Категория А</name>
         <vendor>Pedalkin</vendor>
         <description>Теория в формате онлайн или очно. Мотопарк (не старше 5-ти лет). Инструкторы (профессионалы с многолетним опытом работы).</description>
+        <sales_notes>1 ШТУКА</sales_notes>
+        <param name="Популярный товар">нет</param>
       </offer>
+
     </offers>
   </shop>
 </yml_catalog>
